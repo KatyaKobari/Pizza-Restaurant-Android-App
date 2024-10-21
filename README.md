@@ -1,6 +1,6 @@
 # Pizza Restaurant Android App
 
-## Description
+## Description:
 
 This Android app is designed for a pizza restaurant. It allows users to view the pizza menu, place orders, view their favorites, and more. Admins can manage orders and special offers.
 
